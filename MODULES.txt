@@ -1,0 +1,7 @@
+modules:-
+mysql connector
+tabulate
+pickle
+numpy
+matplotlib
+random
